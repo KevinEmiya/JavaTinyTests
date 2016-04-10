@@ -1,4 +1,4 @@
-package RmiSamples;
+package rmiSamples.tinyService;
 
 import java.rmi.*;
 
